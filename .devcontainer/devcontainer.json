@@ -1,0 +1,8 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+  "name": "linux",
+  "dockerFile": "./Dockerfile",
+  "context": ".",
+  "workspaceMount": "",
+  "workspaceFolder": "/workspaces/viewer"
+}
