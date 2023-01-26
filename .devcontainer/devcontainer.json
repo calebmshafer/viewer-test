@@ -4,5 +4,6 @@
   "dockerFile": "./Dockerfile",
   "context": ".",
   "workspaceMount": "",
-  "workspaceFolder": "/workspaces/viewer"
+  "workspaceFolder": "/workspaces/viewer",
+  "forwardPorts": [ 3000 ]
 }

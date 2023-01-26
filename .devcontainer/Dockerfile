@@ -32,4 +32,6 @@ RUN \
 
 WORKDIR /workspaces/viewer
 
+EXPOSE 3000
+
 CMD ["/usr/bin/zsh"]
